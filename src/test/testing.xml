@@ -1,0 +1,9 @@
+<suite name="Suite Metode Paralele" parallel="classes" thread-count="1">
+
+    <test name ="Test 1">
+        <packages>
+            <package name ="Tests.*"/>
+        </packages>
+
+    </test>
+</suite>
