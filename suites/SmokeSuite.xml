@@ -1,6 +1,6 @@
-<suite name="Suite Metode Paralele" parallel="classes" thread-count="1">
+<suite name="Suite Smoke Test" parallel="classes" thread-count="1">
 
-    <test name ="Test 1">
+    <test name ="Smoke Suite">
         <packages>
             <package name ="Tests.*"/>
         </packages>
